@@ -5,7 +5,7 @@ package.domain = ml.dembele
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas
 version = 9.0
-requirements = python3,kivy,plyer,reportlab
+requirements = python3,kivy,plyer
 orientation = portrait
 fullscreen = 0
 
