@@ -10,7 +10,7 @@ orientation = portrait
 fullscreen = 0
 
 # Android moderne. Le APK doit être testé sur l'appareil avant utilisation réelle.
-android.api = 35
+android.api = 33
 android.minapi = 23
 android.ndk = 25b
 android.archs = arm64-v8a, armeabi-v7a
