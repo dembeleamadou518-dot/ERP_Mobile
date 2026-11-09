@@ -2,6 +2,7 @@
 title = ERP Quincaillerie Mobile
 package.name = erpquincaillerie
 package.domain = ml.dembele
+p4a.branch = develop
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas
 version = 9.0
